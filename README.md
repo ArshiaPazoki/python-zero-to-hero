@@ -1,3 +1,4 @@
+```markdown
 # Python Zero to Hero
 
 ## Description
@@ -48,7 +49,31 @@ Before you begin, ensure you have the following installed on your machine:
    ```sh
    cd python-zero-to-hero
    ```
-3. Install the required dependencies:
+3. Create and activate a virtual environment:
+
+   #### Windows
+
+   1. Create a virtual environment:
+      ```sh
+      python -m venv venv
+      ```
+   2. Activate the virtual environment:
+      ```sh
+      .\venv\Scripts\activate
+      ```
+
+   #### macOS and Linux
+
+   1. Create a virtual environment:
+      ```sh
+      python3 -m venv venv
+      ```
+   2. Activate the virtual environment:
+      ```sh
+      source venv/bin/activate
+      ```
+
+4. Install the required dependencies:
    ```sh
    pip install -r requirements.txt
    ```
