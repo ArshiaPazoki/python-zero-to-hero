@@ -83,7 +83,7 @@ Before you begin, ensure you have the following installed on your machine:
    ```sh
    jupyter notebook
    ```
-2. Open `W3Schools_Python3_Documentation.ipynb` in your Jupyter Notebook interface.
+2. Open `python-zero-to-hero.ipynb` in your Jupyter Notebook interface.
 3. Explore the notebook, run cells, and modify code as needed to enhance your learning experience.
 
 ## Contents
