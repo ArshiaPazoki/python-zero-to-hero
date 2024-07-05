@@ -1,4 +1,3 @@
-```markdown
 # Python Zero to Hero
 
 ## Description
